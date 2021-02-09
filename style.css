@@ -86,7 +86,7 @@ body{
 
 .box1 p{
 	font-size: 25px;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 	font-weight: 100;
 	margin:auto;
 	width: 1000;
@@ -105,8 +105,8 @@ body{
 
 .vcaption p{
 	font-size: 16px;
-	letter-spacing: 2px;
+	letter-spacing: 1.5px;
 	font-weight: 100;
-	width: 1000;
+	width: 900;
 	text-align: center;
 }
